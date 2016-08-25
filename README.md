@@ -1,4 +1,4 @@
-# JQQUIC -- A Java language binding library for Google(R) QUIC protocol.
+# JQUIC -- A Java language binding library for Google(R) QUIC protocol.
 ---
 * This project is to provide a Google(R) QUIC Java library, and a HTTP/2 UDP server framework. 
 * With chrome client, and Google cronet for Android/iOS that support QUIC, we need a server side implementation for Java. 
