@@ -1,0 +1,3 @@
+rootProject.name = 'QUIC'
+include 'QUICClient'
+
